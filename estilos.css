@@ -1,0 +1,28 @@
+.contenedor {
+    margin: 0 auto;
+    width: 70%;
+}
+.contenedorimg {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.contenedor-principal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor-principal h1, .contenedor-principal p {
+   text-align: center;
+}
+.contenedor-principal h2,.contenedor-principal ul {
+    display: inline;
+    width: 100%;
+ }
+
+li {
+    list-style: none;
+}
+
