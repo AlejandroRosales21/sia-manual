@@ -97,7 +97,7 @@ li {
 .contenedorblanco p {
   text-align: justify;
 }
-/* CONTENEDOR NAVEGACION */
+/* CONTENEDOR NAVEGACIÓN */
 .contenedornavegacion {
   width: 80%;
   display: flex;
@@ -122,7 +122,7 @@ li {
   width: 20px;
 }
 
-/* PAGINA PRINCIPAL */
+/* PÁGINA PRINCIPAL */
 .contenedor-principal {
   display: flex;
   flex-direction: column;
@@ -160,7 +160,7 @@ li {
   font-size: 2rem;
 }
 
-/* INDICE */
+/* ÍNDICE */
 .indice {
   width: 100%;
   display: flex;
